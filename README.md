@@ -68,6 +68,8 @@ A collection of Python, Java, C, C++, PHP, and web development projects develope
 
 **Authors:** Nimra Imam Shah, Dr. Fahad Masood, Saqib Shahid Raheem
 
+**Paper:** [View Published Paper](https://aictbm.abasyn.edu.pk/files/CONFERENCE-PROCEEDINGS-5th-AICTBM-2024.pdf)
+
 ---
 
 ## Teaching
