@@ -1,16 +1,34 @@
-## Hi there 👋
+Nimra Imam Shah
+Computer Science Researcher & Lecturer
+AI | ML | FANETs | Intelligent Routing | Python
 
-<!--
-**Nimra-ai/Nimra-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Peshawar, Pakistan
+🔗 LinkedIn
+🔗 ORCID
+🔗 IEEE
+🔗 Portfolio
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 About Me
+
+🔬 Research Interests
+
+💻 Technical Skills
+
+🚀 Featured Projects
+
+   ⭐ FANET Route Optimization
+   ⭐ LSTM + Random Forest
+   ⭐ Interior Lux
+   ⭐ Machine Learning Projects
+   ⭐ Python Projects
+   ⭐ Web Development
+
+📚 Publications
+
+👩‍🏫 Teaching
+
+🏆 Achievements
+
+📫 Connect With Me
